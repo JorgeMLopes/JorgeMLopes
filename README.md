@@ -32,5 +32,5 @@
   <a href="https://open.spotify.com/user/jorge.matheus-br?si=rpKpUbFnQ2exMSDYMUiitg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/JorgeMLopes/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/JorgeMLopes/JorgeMLopes/blob/output/github-contribution-grid-snake.svg)  
   

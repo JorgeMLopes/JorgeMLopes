@@ -2,7 +2,7 @@
 
 - 👋 Oi, eu sou o Jorge Lopes.
 - 💻 Hoje trabalho e estudo com Front-end e Back-end;
-- 👨‍💻 Estudando TypeScript, Bootstrap e Nodejs etc...
+- 👨‍💻 Estudando JavaScript, TypeScript, Bootstrap e Nodejs etc...
 - 💬 Contate-me no email: jorge.matheus@outlook.com
 
 ##

@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo(a) ao meu perfil.
 
 - 👋 Oi, eu sou o Jorge Lopes.
-- 💻 Hoje trabalho e estudo com Front-end e Back-end;
-- 👨‍💻 Estudando JavaScript, TypeScript, Bootstrap e Nodejs etc...
+- 💻 Hoje trabalho em uma empresa de TI focada em controle de acesso e segurança digital (ZKTeco) e estudo Front-end e Back-end;
+- 👨‍💻 Estudando JavaScript, TypeScript, Bootstrap, Nodejs, Java, C e JSON...
 - 💬 Contate-me no email: jorge.matheus@outlook.com
 
 ##

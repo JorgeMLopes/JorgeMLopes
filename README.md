@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo(a) ao meu perfil.
 
 - 👋 Oi, eu sou o Jorge Lopes.
-- 💻 Hoje trabalho em uma empresa focada em analise de dados e desenvolvimento de software, entre outras coisas (Mediar) e estudo Back-end;
+- 💻 Hoje trabalho em uma empresa de analise de dados e desenvolvimento de software (Mediar).
 - 📖 Atualmente cursando Engenharia de Software na PUC Minas.
-- 👨‍💻 Estudando JavaScript, TypeScript, Bootstrap, Nodejs, Java, C e JSON...
+- 👨‍💻 Estudando JavaScript, TypeScript, Bootstrap, Nodejs, Java e JSON...
 - 💬 Contate-me no email: jorge.matheus@outlook.com
 
 ##

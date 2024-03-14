@@ -1,4 +1,4 @@
-![image](https://github.com/JorgeMLopes/JorgeMLopes/assets/86452375/d381cfeb-9825-426c-aceb-2ca332c64c6e)### Olá, seja bem vindo(a) ao meu perfil.
+### Olá, seja bem vindo(a) ao meu perfil.
 
 - 👋 Oi, eu sou o Jorge Lopes.
 - 💻 Hoje trabalho em uma empresa focada em analise de dados e desenvolvimento de software, entre outras coisas (Mediar) e estudo Back-end;
